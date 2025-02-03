@@ -1,7 +1,0 @@
-{
-    // Python settings
-    
-    "python.analysis.extraPaths": [
-        "${workspaceFolder}/src"
-    ]
-}
